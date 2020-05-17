@@ -1,0 +1,8 @@
+Input:
+	prices:
+		Type in any crypto currencies. Example: BTC
+		Presents the current market price
+	monitor:
+		Monitors the price every minute and gives the updated price
+		Target:
+			Type in the target price you are looking for. Once it hits it will exit the program. Example: 8920
